@@ -1,5 +1,6 @@
 # Pizza-Sales-&-Inventory-Analysis-MySQL-Power-BI
 The project involves transforming raw pizza sales data into actionable business intelligence through analysis and visualization. This enables pizza business owners to make data-driven decisions on inventory, staffing, and marketing, ultimately improving performance and profitability.
+
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/22f90bbc-5918-4335-98de-a10e60f67fac">
 
 
