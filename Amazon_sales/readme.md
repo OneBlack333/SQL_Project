@@ -3,16 +3,15 @@
 
 MYSQL project for amazon sales analysis.
 
-
-![images-sixteen_nine](https://github.com/OneBlack333/SQL_Project/assets/149599045/7cf5597a-747a-421b-9662-e437c7b6f802)
-
-
 ## Project Objectives
 • Detail product, sales and customer analysis.  
 • Improve quality and services of the product.  
 • Optimize pricing and market product
 effectively for profit.         
 • Increase the sales of the product line.
+
+![images-sixteen_nine](https://github.com/OneBlack333/SQL_Project/assets/149599045/7cf5597a-747a-421b-9662-e437c7b6f802)
+
 ## Process
 ### Product Analysis
 In product analysis, details are presented regarding sales performance, identifying which products are selling more and which are selling less. Moreover, the analysis examines whether there is a correlation between product sales and gender, as well as explores potential links between product categories.
